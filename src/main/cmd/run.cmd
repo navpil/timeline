@@ -1,0 +1,1 @@
+jre\bin\java -m timeline/navpil.timeline.TimeLine
